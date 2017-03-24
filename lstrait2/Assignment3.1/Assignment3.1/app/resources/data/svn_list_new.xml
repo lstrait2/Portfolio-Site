@@ -1,0 +1,3980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/lstrait2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/CS440_MP1</name>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/README.txt</name>
+<size>907</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/CS440_MP1/mazes</name>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/large_maze.txt</name>
+<size>1406</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/large_search.txt</name>
+<size>480</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/med_maze.txt</name>
+<size>666</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/med_search.txt</name>
+<size>256</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/small_maze.txt</name>
+<size>230</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/small_search.txt</name>
+<size>105</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/mazes/trickysearch.txt</name>
+<size>147</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/CS440_MP1/results</name>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/results/large.txt</name>
+<size>5855</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/results/med.txt</name>
+<size>2890</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/results/small.txt</name>
+<size>1143</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/results/t.txt</name>
+<size>336</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/results/temp.txt</name>
+<size>300</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/CS440_MP1/src</name>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/src/Node.py</name>
+<size>600</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/src/graph.py</name>
+<size>2982</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/src/search.py</name>
+<size>5153</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/src/search_multiple.py</name>
+<size>4522</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/src/ut.py</name>
+<size>595</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/CS440_MP1/test.sh</name>
+<size>137</size>
+<commit
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/Discussion_code</name>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/README.txt</name>
+<size>907</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/Discussion_code/mazes</name>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/large_maze.txt</name>
+<size>1406</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/large_search.txt</name>
+<size>480</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/med_maze.txt</name>
+<size>666</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/med_search.txt</name>
+<size>256</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/small_maze.txt</name>
+<size>230</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/small_search.txt</name>
+<size>105</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/mazes/trickysearch.txt</name>
+<size>147</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/Discussion_code/results</name>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/results/large.txt</name>
+<size>5855</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/results/med.txt</name>
+<size>2890</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/results/small.txt</name>
+<size>1143</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/results/t.txt</name>
+<size>336</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/results/temp.txt</name>
+<size>300</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/Discussion_code/src</name>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/src/Node.py</name>
+<size>600</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/src/graph.py</name>
+<size>2981</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/src/search.py</name>
+<size>5075</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/src/search_multiple.py</name>
+<size>4522</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/src/ut.py</name>
+<size>595</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Discussion_code/test.sh</name>
+<size>136</size>
+<commit
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.classpath</name>
+<size>385</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.project</name>
+<size>362</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/.settings</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/Network.class</name>
+<size>7160</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/internals/Node.class</name>
+<size>2993</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9669</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/doc</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/Network.java</name>
+<size>11743</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/internals</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Node.java</name>
+<size>4172</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/HW0/src/lanSimulation/tests</name>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/shopping</name>
+<commit
+   revision="638">
+<author>lstrait2</author>
+<date>2017-01-25T19:10:45.779367Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="622">
+<author>lstrait2</author>
+<date>2017-01-25T18:46:50.351848Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/shopping/list2.txt</name>
+<size>75</size>
+<commit
+   revision="630">
+<author>lstrait2</author>
+<date>2017-01-25T18:55:50.557159Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3479">
+<author>lstrait2</author>
+<date>2017-02-06T22:20:35.294775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>379</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>389</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3479">
+<author>lstrait2</author>
+<date>2017-02-06T22:20:35.294775Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/game</name>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/game/Board.java</name>
+<size>1899</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/game/ChessGame.java</name>
+<size>10621</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/game/Tile.java</name>
+<size>1896</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/pieces</name>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/Bishop.java</name>
+<size>3694</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/King.java</name>
+<size>1429</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/Knight.java</name>
+<size>2330</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/Pawn.java</name>
+<size>5125</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/Piece.java</name>
+<size>4966</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/Queen.java</name>
+<size>1096</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/pieces/Rook.java</name>
+<size>3485</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/player</name>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/player/Color.java</name>
+<size>224</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/test</name>
+<commit
+   revision="3479">
+<author>lstrait2</author>
+<date>2017-02-06T22:20:35.294775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/AllTests.java</name>
+<size>419</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/BishopTests.java</name>
+<size>7584</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/BoardTests.java</name>
+<size>1335</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/ChessGameTests.java</name>
+<size>21099</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/KingTests.java</name>
+<size>6308</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/KnightTests.java</name>
+<size>5470</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/PawnTests.java</name>
+<size>5820</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/PieceTests.java</name>
+<size>3825</size>
+<commit
+   revision="3479">
+<author>lstrait2</author>
+<date>2017-02-06T22:20:35.294775Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/QueenTests.java</name>
+<size>8055</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/RookTests.java</name>
+<size>9421</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/TileTests.java</name>
+<size>1195</size>
+<commit
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>379</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>389</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.settings</name>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="3980">
+<author>lstrait2</author>
+<date>2017-02-09T19:07:11.221294Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/resources</name>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackBerolinaPawn.png</name>
+<size>616</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackBishop.png</name>
+<size>1260</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackKing.png</name>
+<size>2485</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackKnight.png</name>
+<size>1516</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackPawn.png</name>
+<size>797</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackPrincess.png</name>
+<size>1221</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackQueen.png</name>
+<size>2267</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/BlackRook.png</name>
+<size>725</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/SoureCited</name>
+<size>119</size>
+<commit
+   revision="4043">
+<author>lstrait2</author>
+<date>2017-02-11T01:02:45.532030Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhiteBerolinaPawn.png</name>
+<size>888</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhiteBishop.png</name>
+<size>1944</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhiteKing.png</name>
+<size>2279</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhiteKnight.png</name>
+<size>1878</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhitePawn.png</name>
+<size>1294</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhitePrincess.png</name>
+<size>1416</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhiteQueen.png</name>
+<size>2637</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/resources/WhiteRook.png</name>
+<size>933</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/game</name>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/game/Board.java</name>
+<size>1899</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/game/ChessGame.java</name>
+<size>12632</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/game/Tile.java</name>
+<size>2591</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/pieces</name>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/BerolinaPawn.java</name>
+<size>2407</size>
+<commit
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Bishop.java</name>
+<size>1012</size>
+<commit
+   revision="3916">
+<author>lstrait2</author>
+<date>2017-02-08T20:39:56.419691Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/King.java</name>
+<size>914</size>
+<commit
+   revision="3963">
+<author>lstrait2</author>
+<date>2017-02-09T00:44:23.712079Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Knight.java</name>
+<size>1010</size>
+<commit
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Move.java</name>
+<size>7829</size>
+<commit
+   revision="3963">
+<author>lstrait2</author>
+<date>2017-02-09T00:44:23.712079Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Pawn.java</name>
+<size>3813</size>
+<commit
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Piece.java</name>
+<size>4765</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Princess.java</name>
+<size>1095</size>
+<commit
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Queen.java</name>
+<size>1084</size>
+<commit
+   revision="3963">
+<author>lstrait2</author>
+<date>2017-02-09T00:44:23.712079Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Rook.java</name>
+<size>956</size>
+<commit
+   revision="3916">
+<author>lstrait2</author>
+<date>2017-02-08T20:39:56.419691Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/player</name>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/player/Color.java</name>
+<size>224</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test</name>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/AllTests.java</name>
+<size>486</size>
+<commit
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/BerolinaPawnTests.java</name>
+<size>5924</size>
+<commit
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/BishopTests.java</name>
+<size>7584</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/BoardGUITests.java</name>
+<size>880</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/BoardTests.java</name>
+<size>1335</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/ChessGameTests.java</name>
+<size>25290</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/KingTests.java</name>
+<size>6308</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/KnightTests.java</name>
+<size>5470</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/ManualTestingPlan-StaticChessBoardGUI.pdf</name>
+<size>244024</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/PawnTests.java</name>
+<size>5820</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/PieceTests.java</name>
+<size>3825</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/PrincessTests.java</name>
+<size>5967</size>
+<commit
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/QueenTests.java</name>
+<size>8055</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/RookTests.java</name>
+<size>9421</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/TileTests.java</name>
+<size>1195</size>
+<commit
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/view</name>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/view/BoardGUI.java</name>
+<size>3553</size>
+<commit
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5128">
+<author>lstrait2</author>
+<date>2017-02-18T22:37:49.085761Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1</name>
+<commit
+   revision="5128">
+<author>lstrait2</author>
+<date>2017-02-18T22:37:49.085761Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/.classpath</name>
+<size>379</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/.project</name>
+<size>389</size>
+<commit
+   revision="4385">
+<author>lstrait2</author>
+<date>2017-02-13T20:02:23.095292Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/.settings</name>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/resources</name>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackBerolinaPawn.png</name>
+<size>616</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackBishop.png</name>
+<size>1260</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackKing.png</name>
+<size>2485</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackKnight.png</name>
+<size>1516</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackPawn.png</name>
+<size>797</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackPrincess.png</name>
+<size>1221</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackQueen.png</name>
+<size>2267</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/BlackRook.png</name>
+<size>725</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/SoureCited</name>
+<size>119</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhiteBerolinaPawn.png</name>
+<size>888</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhiteBishop.png</name>
+<size>1944</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhiteKing.png</name>
+<size>2279</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhiteKnight.png</name>
+<size>1878</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhitePawn.png</name>
+<size>1294</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhitePrincess.png</name>
+<size>1416</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhiteQueen.png</name>
+<size>2637</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/resources/WhiteRook.png</name>
+<size>933</size>
+<commit
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src</name>
+<commit
+   revision="5128">
+<author>lstrait2</author>
+<date>2017-02-18T22:37:49.085761Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/controller</name>
+<commit
+   revision="5128">
+<author>lstrait2</author>
+<date>2017-02-18T22:37:49.085761Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/ChessController.java</name>
+<size>5869</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/Command.java</name>
+<size>196</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/ForfeitListener.java</name>
+<size>641</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/MoveCommand.java</name>
+<size>3145</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/MoveCommandManager.java</name>
+<size>1097</size>
+<commit
+   revision="5128">
+<author>lstrait2</author>
+<date>2017-02-18T22:37:49.085761Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/PieceSelectionListener.java</name>
+<size>2058</size>
+<commit
+   revision="5049">
+<author>lstrait2</author>
+<date>2017-02-16T16:47:48.117969Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/RestartListener.java</name>
+<size>563</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/controller/UndoListener.java</name>
+<size>578</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/model</name>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/model/game</name>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/game/Board.java</name>
+<size>1905</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/game/ChessGame.java</name>
+<size>13004</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/game/Tile.java</name>
+<size>2937</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/model/pieces</name>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/BerolinaPawn.java</name>
+<size>2431</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Bishop.java</name>
+<size>1036</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/King.java</name>
+<size>938</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Knight.java</name>
+<size>1034</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Move.java</name>
+<size>7853</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Pawn.java</name>
+<size>3534</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Piece.java</name>
+<size>5137</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Princess.java</name>
+<size>1119</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Queen.java</name>
+<size>1108</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/pieces/Rook.java</name>
+<size>980</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/model/player</name>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/player/Color.java</name>
+<size>230</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/model/player/Player.java</name>
+<size>677</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/test</name>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/AllTests.java</name>
+<size>527</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/BerolinaPawnTests.java</name>
+<size>5954</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/BishopTests.java</name>
+<size>7620</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/BoardTests.java</name>
+<size>1343</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/ChessGameTests.java</name>
+<size>25375</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/CommandTests.java</name>
+<size>3788</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/ControllerTests.java</name>
+<size>8528</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/KingTests.java</name>
+<size>6344</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/KnightTests.java</name>
+<size>5518</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/ManualTestingPlan-DynamicGUI (1).pdf</name>
+<size>813317</size>
+<commit
+   revision="5085">
+<author>lstrait2</author>
+<date>2017-02-17T15:40:27.988077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/PawnTests.java</name>
+<size>5852</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/PieceTests.java</name>
+<size>3851</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/PlayerTests.java</name>
+<size>631</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/PrincessTests.java</name>
+<size>6003</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/QueenTests.java</name>
+<size>8091</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/RookTests.java</name>
+<size>9457</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/test/TileTests.java</name>
+<size>1213</size>
+<commit
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Assignment1.1/src/view</name>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/view/BoardGUI.java</name>
+<size>3244</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.1/src/view/TileGUI.java</name>
+<size>2518</size>
+<commit
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/data</name>
+<commit
+   revision="5640">
+<author>lstrait2</author>
+<date>2017-02-25T00:42:45.125469Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data/actors_and_movies5.json</name>
+<size>1370626</size>
+<commit
+   revision="5640">
+<author>lstrait2</author>
+<date>2017-02-25T00:42:45.125469Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/graph</name>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5628">
+<author>lstrait2</author>
+<date>2017-02-24T21:04:48.505012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph/graph.py</name>
+<size>6565</size>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph/nodes.py</name>
+<size>2552</size>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph/test_graph.py</name>
+<size>5687</size>
+<commit
+   revision="5722">
+<author>lstrait2</author>
+<date>2017-02-26T18:51:38.756675Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph/test_node.py</name>
+<size>3208</size>
+<commit
+   revision="5722">
+<author>lstrait2</author>
+<date>2017-02-26T18:51:38.756675Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/logs</name>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/logs/scraper.log</name>
+<size>2277139</size>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/scraper</name>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/scraper/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5628">
+<author>lstrait2</author>
+<date>2017-02-24T21:04:48.505012Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/scraper/wiki_scraper.py</name>
+<size>15589</size>
+<commit
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6469">
+<author>lstrait2</author>
+<date>2017-03-06T20:32:57.957633Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="6244">
+<author>lstrait2</author>
+<date>2017-03-04T21:18:23.974282Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/inspectionProfiles</name>
+<commit
+   revision="6196">
+<author>lstrait2</author>
+<date>2017-03-03T16:34:36.646573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>438</size>
+<commit
+   revision="6196">
+<author>lstrait2</author>
+<date>2017-03-03T16:34:36.646573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>41512</size>
+<commit
+   revision="6244">
+<author>lstrait2</author>
+<date>2017-03-04T21:18:23.974282Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1</name>
+<commit
+   revision="6469">
+<author>lstrait2</author>
+<date>2017-03-06T20:32:57.957633Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/.idea</name>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/.idea/Assignment2.1.iml</name>
+<size>398</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/.idea/codeStyleSettings.xml</name>
+<size>281</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/.idea/inspectionProfiles</name>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>404</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/.idea/misc.xml</name>
+<size>209</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/.idea/workspace.xml</name>
+<size>28842</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/Assignment2.1ManualTestingandReport(1).pdf</name>
+<size>940048</size>
+<commit
+   revision="6244">
+<author>lstrait2</author>
+<date>2017-03-04T21:18:23.974282Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/app.py</name>
+<size>803</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/model</name>
+<commit
+   revision="6469">
+<author>lstrait2</author>
+<date>2017-03-06T20:32:57.957633Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/model/data</name>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/data/data.json</name>
+<size>443856</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/model/graph</name>
+<commit
+   revision="6469">
+<author>lstrait2</author>
+<date>2017-03-06T20:32:57.957633Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/graph.py</name>
+<size>7062</size>
+<commit
+   revision="6196">
+<author>lstrait2</author>
+<date>2017-03-03T16:34:36.646573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/graph_analysis.py</name>
+<size>3717</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/graph_visualization.py</name>
+<size>4993</size>
+<commit
+   revision="6469">
+<author>lstrait2</author>
+<date>2017-03-06T20:32:57.957633Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/nodes.py</name>
+<size>3318</size>
+<commit
+   revision="6304">
+<author>lstrait2</author>
+<date>2017-03-05T21:01:04.179952Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/test_graph.py</name>
+<size>7879</size>
+<commit
+   revision="6196">
+<author>lstrait2</author>
+<date>2017-03-03T16:34:36.646573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/graph/test_node.py</name>
+<size>3167</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/model/logs</name>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/logs/scraper.log</name>
+<size>0</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/model/scraper</name>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/scraper/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/model/scraper/wiki_scraper.py</name>
+<size>15574</size>
+<commit
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/test.sh</name>
+<size>156</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/test_API.py</name>
+<size>13953</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Assignment2.1/view</name>
+<commit
+   revision="6243">
+<author>lstrait2</author>
+<date>2017-03-04T21:15:49.566144Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/view/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6180">
+<author>lstrait2</author>
+<date>2017-03-02T20:10:31.751804Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/view/actor_views.py</name>
+<size>3161</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/view/movie_views.py</name>
+<size>3450</size>
+<commit
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Assignment2.1/view/util.py</name>
+<size>4198</size>
+<commit
+   revision="6243">
+<author>lstrait2</author>
+<date>2017-03-04T21:15:49.566144Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="6988">
+<author>lstrait2</author>
+<date>2017-03-12T19:48:45.861261Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app.py</name>
+<size>460</size>
+<commit
+   revision="6818">
+<author>lstrait2</author>
+<date>2017-03-10T02:10:29.389360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/citations.txt</name>
+<size>762</size>
+<commit
+   revision="6984">
+<author>lstrait2</author>
+<date>2017-03-12T18:42:15.404686Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/model</name>
+<commit
+   revision="6988">
+<author>lstrait2</author>
+<date>2017-03-12T19:48:45.861261Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6795">
+<author>lstrait2</author>
+<date>2017-03-09T18:38:55.518147Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/model/portfolio</name>
+<commit
+   revision="6988">
+<author>lstrait2</author>
+<date>2017-03-12T19:48:45.861261Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6795">
+<author>lstrait2</author>
+<date>2017-03-09T18:38:55.518147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio/directory.py</name>
+<size>1286</size>
+<commit
+   revision="6852">
+<author>lstrait2</author>
+<date>2017-03-10T18:02:19.927544Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio/entry.py</name>
+<size>836</size>
+<commit
+   revision="6818">
+<author>lstrait2</author>
+<date>2017-03-10T02:10:29.389360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio/file.py</name>
+<size>1471</size>
+<commit
+   revision="6988">
+<author>lstrait2</author>
+<date>2017-03-12T19:48:45.861261Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio/repository.py</name>
+<size>1972</size>
+<commit
+   revision="6988">
+<author>lstrait2</author>
+<date>2017-03-12T19:48:45.861261Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio/revision.py</name>
+<size>428</size>
+<commit
+   revision="6818">
+<author>lstrait2</author>
+<date>2017-03-10T02:10:29.389360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/portfolio_tests.py</name>
+<size>6112</size>
+<commit
+   revision="6988">
+<author>lstrait2</author>
+<date>2017-03-12T19:48:45.861261Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/xml_parser.py</name>
+<size>4514</size>
+<commit
+   revision="6816">
+<author>lstrait2</author>
+<date>2017-03-10T01:44:22.580578Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/model/xml_parser_tests.py</name>
+<size>6515</size>
+<commit
+   revision="6985">
+<author>lstrait2</author>
+<date>2017-03-12T19:34:09.270121Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/resources</name>
+<commit
+   revision="6735">
+<author>lstrait2</author>
+<date>2017-03-08T20:37:22.428932Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/resources/data</name>
+<commit
+   revision="6735">
+<author>lstrait2</author>
+<date>2017-03-08T20:37:22.428932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/resources/data/svn_list.xml</name>
+<size>72461</size>
+<commit
+   revision="6735">
+<author>lstrait2</author>
+<date>2017-03-08T20:37:22.428932Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/resources/data/svn_log.xml</name>
+<size>56943</size>
+<commit
+   revision="6735">
+<author>lstrait2</author>
+<date>2017-03-08T20:37:22.428932Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/templates</name>
+<commit
+   revision="6985">
+<author>lstrait2</author>
+<date>2017-03-12T19:34:09.270121Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/assignment_page.html</name>
+<size>4303</size>
+<commit
+   revision="6984">
+<author>lstrait2</author>
+<date>2017-03-12T18:42:15.404686Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/file_page.html</name>
+<size>5061</size>
+<commit
+   revision="6985">
+<author>lstrait2</author>
+<date>2017-03-12T19:34:09.270121Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test.sh</name>
+<size>227</size>
+<commit
+   revision="6872">
+<author>lstrait2</author>
+<date>2017-03-10T22:58:56.663762Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/view</name>
+<commit
+   revision="6872">
+<author>lstrait2</author>
+<date>2017-03-10T22:58:56.663762Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/view/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6795">
+<author>lstrait2</author>
+<date>2017-03-09T18:38:55.518147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/view/portfolio_views.py</name>
+<size>2238</size>
+<commit
+   revision="6872">
+<author>lstrait2</author>
+<date>2017-03-10T22:58:56.663762Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/app.py</name>
+<size>460</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/citations.txt</name>
+<size>762</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/model</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/model/portfolio</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio/directory.py</name>
+<size>1286</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio/entry.py</name>
+<size>836</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio/file.py</name>
+<size>1471</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio/repository.py</name>
+<size>1972</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio/revision.py</name>
+<size>428</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/portfolio_tests.py</name>
+<size>6112</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/xml_parser.py</name>
+<size>4514</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/model/xml_parser_tests.py</name>
+<size>6515</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/resources</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/resources/data</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/resources/data/svn_list.xml</name>
+<size>72461</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/resources/data/svn_log.xml</name>
+<size>56943</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/templates</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/templates/assignment_page.html</name>
+<size>4303</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/templates/file_page.html</name>
+<size>5061</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/test.sh</name>
+<size>227</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.1/view</name>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/view/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.1/view/portfolio_views.py</name>
+<size>2238</size>
+<commit
+   revision="7804">
+<author>lstrait2</author>
+<date>2017-03-21T15:08:51.388154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk</name>
+<commit
+   revision="6175">
+<author>lstrait2</author>
+<date>2017-03-02T19:07:15.200734Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/.idea</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/.idea/Assignment2.1.iml</name>
+<size>398</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/.idea/codeStyleSettings.xml</name>
+<size>281</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/.idea/inspectionProfiles</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>404</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/.idea/misc.xml</name>
+<size>209</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/.idea/workspace.xml</name>
+<size>29275</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/.idea</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/.idea/Assignment2.1.iml</name>
+<size>398</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/.idea/codeStyleSettings.xml</name>
+<size>281</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/.idea/inspectionProfiles</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>404</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/.idea/misc.xml</name>
+<size>209</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/.idea/workspace.xml</name>
+<size>28842</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/app.py</name>
+<size>3677</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/model</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/model/data</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/data/data.json</name>
+<size>443856</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/model/graph</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/graph/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/graph/graph.py</name>
+<size>5902</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/graph/nodes.py</name>
+<size>2773</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/graph/test_graph.py</name>
+<size>5021</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/graph/test_node.py</name>
+<size>3295</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/model/logs</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/logs/scraper.log</name>
+<size>0</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/Assignment2.1/model/scraper</name>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/scraper/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/model/scraper/wiki_scraper.py</name>
+<size>15574</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/Assignment2.1/util.py</name>
+<size>0</size>
+<commit
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/app.py</name>
+<size>240</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/model</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/model/data</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/data/actors_and_movies5.json</name>
+<size>1370626</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/data/data.json</name>
+<size>443856</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/model/graph</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/graph/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/graph/graph.py</name>
+<size>6573</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/graph/nodes.py</name>
+<size>2773</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/graph/test_graph.py</name>
+<size>5021</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/graph/test_node.py</name>
+<size>3295</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/model/logs</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/logs/scraper.log</name>
+<size>0</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>junk/model/scraper</name>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/scraper/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junk/model/scraper/wiki_scraper.py</name>
+<size>15574</size>
+<commit
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+</commit>
+</entry>
+</list>
+</lists>

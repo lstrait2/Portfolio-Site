@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>{{assignment.name}} - {{file.get_file_name()}}</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/static/css/portfolio-item.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body style="background: -moz-linear-gradient(right, #ffd89b, #19547b)">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Lance Strait</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/assignments/{{assignment.name}}">{{assignment.name}}</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Portfolio Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">{{file.get_file_name()}}
+                </h1>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Portfolio Item Row -->
+        <div class="row">
+
+            <div class="col-md-8">
+                <input type="button" id="IButtonShow" value="Show File Contents" onclick="showIFile()">
+                <input type="button" id="IButtonHide" value="Hide File Contents" onclick="hideIFile()" style="visibility:hidden">
+                <iframe height="700px" width="100%" src="https://subversion.ews.illinois.edu/svn/sp17-cs242/lstrait2/{{file.name}}" id="IFile" style="visibility:hidden; background-color:white;"></iframe>
+            </div>
+
+            <div class="col-md-4">
+                <h2><b>File Details</b></h2>
+                <p><b>Path</b>: {{file.name}}</p>
+                <h4><b>Type</b>: {{file.get_file_type()}}</h4>
+                <h4><b>Revision</b>: {{file.revision}}</h4>
+                <h4><b>Size</b>: {{file.size}}B</h4>
+                <br>
+                <br>
+                <h2><b>File History</b></h2>
+                {% for revision in file.versions %}
+                <div style="border: 1px black">
+                <h4><b>Revision</b>: {{revision.revision}}</h4>
+                    <h4><b>Info</b>: {{revision.msg}}</h4>
+                    <h4><b>Date</b>: {{revision.date}}</h4>
+                <h4><b>Author</b>: {{revision.author}}</h4>
+                </div>
+                <hr>
+                {% endfor %}
+            </div>
+        </div>
+        <hr>
+        <div class="container">
+
+  <div class="post-comments">
+
+    <form action="/assignments/{{assignment.name}}/files/{{file.name}}" method="POST">
+      <div class="form-group">
+        <label for="comment">Your Comment</label>
+        <textarea name="comment" class="form-control" rows="3"></textarea>
+      </div>
+      <button type="submit" class="btn btn-default">Send</button>
+    </form>
+
+      <hr>
+
+    <div class="row" style="background-color:white; opacity:0.75;">
+        {% for comment in comments %}
+      <div class="media">
+        <!-- first comment -->
+        <div class="media-heading">
+          <button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#collapse{{comment.id}}" aria-expanded="false" aria-controls="collapseExample"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button> <span class="label label-info">{{comment.id}}</span>
+        </div>
+        <div class="panel-collapse collapse in" id="collapse{{comment.id}}">
+
+          <div class="media-left">
+            <!-- vote-wrap -->
+          </div>
+          <!-- media-left -->
+          <div class="media-body">
+            <p>{{comment.message}}</p>
+            <div class="comment-meta">
+              <span>
+                        <a class="" role="button" data-toggle="collapse" href="#replyComment{{comment.id}}" aria-expanded="false" aria-controls="collapseExample">reply</a>
+                      </span>
+              <div class="collapse" id="replyComment{{comment.id}}">
+                <form action="/assignments/{{assignment.name}}/files/{{file.name}}/{{comment.id}}" method="POST">
+                  <div class="form-group">
+                    <label for="comment">Your Comment</label>
+                    <textarea name="comment" class="form-control" rows="3"></textarea>
+                  </div>
+                  <button type="submit" class="btn btn-default">Send</button>
+                </form>
+              </div>
+            </div>
+            <!-- comment-meta -->
+              {% for child in comment.children recursive%}
+            <div class="media">
+              <!-- answer to the first comment -->
+              <div class="media-heading">
+                <button class="btn btn-default btn-collapse btn-xs" type="button" data-toggle="collapse" data-target="#collapse{{child.id}}" aria-expanded="false" aria-controls="collapseExample"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button> <span class="label label-info">{{child.id}}</span>
+              </div>
+
+              <div class="panel-collapse collapse in" id="collapse{{child.id}}">
+
+                <div class="media-left">
+                  <!-- vote-wrap -->
+                </div>
+                <!-- media-left -->
+                <div class="media-body">
+                  <p>{{child.message}}</p>
+                  <div class="comment-meta">
+                            <span>
+                              <a class="" role="button" data-toggle="collapse" href="#replyComment{{child.id}}" aria-expanded="false" aria-controls="collapseExample">reply</a>
+                            </span>
+                    <div class="collapse" id="replyComment{{child.id}}">
+                      <form action="/assignments/{{assignment.name}}/files/{{file.name}}/{{child.id}}" method="POST">
+                        <div class="form-group">
+                          <label for="comment">Your Comment</label>
+                          <textarea name="comment" class="form-control" rows="3"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-default">Send</button>
+                      </form>
+                    </div>
+                  </div>
+                  <!-- comment-meta -->
+                    {{loop(child.children)}}
+                </div>
+              </div>
+              <!-- comments -->
+            </div>
+              {% endfor %}
+            <!-- answer to the first comment -->
+          </div>
+        </div>
+        <!-- comments -->
+      </div>
+        {% endfor %}
+      <!-- first comment -->
+    </div>
+  </div>
+
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="/static/js/jquery.js"></script>
+
+    <!-- Ideas for this code inspired by http://stackoverflow.com/questions/20357787/how-do-i-use-an-button-to-hide-or-show-an-iframe -->
+    <script type="text/javascript">
+        function showIFile() {
+            document.getElementById('IFile').style.visibility= 'visible';
+            document.getElementById('IButtonShow').style.visibility = 'hidden';
+            document.getElementById('IButtonHide').style.visibility = 'visible';
+         }
+         function hideIFile() {
+            document.getElementById('IFile').style.visibility= 'hidden';
+            document.getElementById('IButtonShow').style.visibility = 'visible';
+            document.getElementById('IButtonHide').style.visibility = 'hidden';
+         }
+     </script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/static/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
