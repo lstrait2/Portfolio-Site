@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6705">
+<author>lstrait2</author>
+<date>2017-03-08T15:58:42.771398Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment3.0</path>
+</paths>
+<msg>importing Assignment3.0</msg>
+</logentry>
+<logentry
+   revision="6469">
+<author>lstrait2</author>
+<date>2017-03-06T20:32:57.957633Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph_visualization.py</path>
+</paths>
+<msg>refactored coloring code</msg>
+</logentry>
+<logentry
+   revision="6304">
+<author>lstrait2</author>
+<date>2017-03-05T21:01:04.179952Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/graph/nodes.py</path>
+</paths>
+<msg>refactored graph</msg>
+</logentry>
+<logentry
+   revision="6244">
+<author>lstrait2</author>
+<date>2017-03-04T21:18:23.974282Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/Assignment2.1ManualTestingandReport(1).pdf</path>
+<path
+   action="D"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/Assignment2.1ManualTestingandReport.pdf</path>
+</paths>
+<msg>added new pdf</msg>
+</logentry>
+<logentry
+   revision="6243">
+<author>lstrait2</author>
+<date>2017-03-04T21:15:49.566144Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/Assignment2.1ManualTestingandReport.pdf</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph_visualization.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/util.py</path>
+</paths>
+<msg>visualization code done</msg>
+</logentry>
+<logentry
+   revision="6206">
+<author>lstrait2</author>
+<date>2017-03-03T20:39:55.339739Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/app.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph_analysis.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_node.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/test.sh</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/test_API.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/actor_views.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/movie_views.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/util.py</path>
+</paths>
+<msg>added API tests and analysis code</msg>
+</logentry>
+<logentry
+   revision="6196">
+<author>lstrait2</author>
+<date>2017-03-03T16:34:36.646573Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph_analysis.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/nodes.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_graph.py</path>
+</paths>
+<msg>most of analysis done</msg>
+</logentry>
+<logentry
+   revision="6187">
+<author>lstrait2</author>
+<date>2017-03-03T01:37:44.965488Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/graph/nodes.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_graph.py</path>
+</paths>
+<msg>added BFS and tests</msg>
+</logentry>
+<logentry
+   revision="6182">
+<author>lstrait2</author>
+<date>2017-03-02T20:57:17.397367Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/view/actor_views.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/movie_views.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/util.py</path>
+</paths>
+<msg>more progress on API</msg>
+</logentry>
+<logentry
+   revision="6181">
+<author>lstrait2</author>
+<date>2017-03-02T20:48:14.335330Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lstrait2/Assignment2.1/Assignment2.1/util.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/movie_views.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/view/util.py</path>
+</paths>
+<msg>more progress on API</msg>
+</logentry>
+<logentry
+   revision="6180">
+<author>lstrait2</author>
+<date>2017-03-02T20:10:31.751804Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.1/Assignment2.1/app.py</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/view</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/view/__init__.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/view/actor_views.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/view/movie_views.py</path>
+</paths>
+<msg>refactored</msg>
+</logentry>
+<logentry
+   revision="6178">
+<author>lstrait2</author>
+<date>2017-03-02T19:19:07.348568Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lstrait2/Assignment2.1/temp.txt</path>
+</paths>
+<msg>what</msg>
+</logentry>
+<logentry
+   revision="6177">
+<author>lstrait2</author>
+<date>2017-03-02T19:17:51.077884Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/temp.txt</path>
+</paths>
+<msg>what</msg>
+</logentry>
+<logentry
+   revision="6176">
+<author>lstrait2</author>
+<date>2017-03-02T19:08:15.293932Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/Assignment2.1.iml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/.idea/codeStyleSettings.xml</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/app.py</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model/data</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/data/data.json</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model/graph</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/graph/__init__.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/nodes.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_node.py</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/logs</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/logs/scraper.log</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model/scraper</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/scraper/__init__.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/scraper/wiki_scraper.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/util.py</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="6175">
+<author>lstrait2</author>
+<date>2017-03-02T19:07:15.200734Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/lstrait2/Assignment2.1</path>
+<path
+   kind="dir"
+   copyfrom-path="/lstrait2/Assignment2.1"
+   copyfrom-rev="6174"
+   action="A">/lstrait2/junk</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="6174">
+<author>lstrait2</author>
+<date>2017-03-02T19:03:12.244766Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/.idea</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/.idea/Assignment2.1.iml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/.idea/codeStyleSettings.xml</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/app.py</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model/data</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/data/data.json</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/__init__.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/nodes.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_graph.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/graph/test_node.py</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model/logs</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/logs/scraper.log</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/Assignment2.1/model/scraper</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/Assignment2.1/model/scraper/__init__.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/model/scraper/wiki_scraper.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/Assignment2.1/util.py</path>
+</paths>
+<msg>most of API implemented</msg>
+</logentry>
+<logentry
+   revision="6172">
+<author>lstrait2</author>
+<date>2017-03-02T15:50:07.936217Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/.idea</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/.idea/Assignment2.1.iml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/.idea/codeStyleSettings.xml</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/.idea/inspectionProfiles</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/app.py</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/model</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/model/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/model/data</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/model/data/actors_and_movies5.json</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/model/data/data.json</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/model/graph</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/model/graph/__init__.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/model/graph/graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/model/graph/nodes.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/model/graph/test_graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/model/graph/test_node.py</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.1/model/logs</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.1/model/logs/scraper.log</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.1/model/scraper</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/model/scraper/__init__.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.1/model/scraper/wiki_scraper.py</path>
+</paths>
+<msg>importing Assignment2.1</msg>
+</logentry>
+<logentry
+   revision="5818">
+<author>lstrait2</author>
+<date>2017-02-27T16:53:00.923630Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/graph/graph.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.0/graph/nodes.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.0/logs/scraper.log</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/scraper/wiki_scraper.py</path>
+</paths>
+<msg>added docstrings</msg>
+</logentry>
+<logentry
+   revision="5722">
+<author>lstrait2</author>
+<date>2017-02-26T18:51:38.756675Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/graph/graph.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/graph/nodes.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/graph/test_graph.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.0/graph/test_node.py</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.0/logs/scraper.log</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/scraper/wiki_scraper.py</path>
+</paths>
+<msg>added main loop for queries</msg>
+</logentry>
+<logentry
+   revision="5640">
+<author>lstrait2</author>
+<date>2017-02-25T00:42:45.125469Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/data/actors_and_movies5.json</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment2.0/logs/scraper.log</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/scraper/wiki_scraper.py</path>
+</paths>
+<msg>fixed small bug</msg>
+</logentry>
+<logentry
+   revision="5630">
+<author>lstrait2</author>
+<date>2017-02-24T21:24:46.732664Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/graph/graph.py</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment2.0/graph/test_graph.py</path>
+</paths>
+<msg>added DFS</msg>
+</logentry>
+<logentry
+   revision="5628">
+<author>lstrait2</author>
+<date>2017-02-24T21:04:48.505012Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.0/data</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.0/data/actors_and_movies5.json</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment2.0/graph</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.0/graph/__init__.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.0/graph/graph.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.0/graph/nodes.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.0/graph/test_graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.0/graph/test_node.py</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.0/logs</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.0/logs/scraper.log</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment2.0/scraper</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment2.0/scraper/__init__.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment2.0/scraper/wiki_scraper.py</path>
+</paths>
+<msg>importing Assignment2.0</msg>
+</logentry>
+<logentry
+   revision="5128">
+<author>lstrait2</author>
+<date>2017-02-18T22:37:49.085761Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/MoveCommandManager.java</path>
+</paths>
+<msg>Added ability to undo to beginning of game</msg>
+</logentry>
+<logentry
+   revision="5124">
+<author>lstrait2</author>
+<date>2017-02-18T21:48:02.232359Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/ChessController.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/Command.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/ForfeitListener.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/MoveCommand.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/MoveCommandManager.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/RestartListener.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/UndoListener.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/AllTests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/test/ChessGameTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/CommandTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/ControllerTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/PlayerTests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/view/BoardGUI.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/view/TileGUI.java</path>
+</paths>
+<msg>Game is complete!</msg>
+</logentry>
+<logentry
+   revision="5085">
+<author>lstrait2</author>
+<date>2017-02-17T15:40:27.988077Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/ManualTestingPlan-DynamicGUI (1).pdf</path>
+<path
+   action="D"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/ManualTestingPlan-StaticChessBoardGUI.pdf</path>
+</paths>
+<msg>Manual testing plan implemented
+</msg>
+</logentry>
+<logentry
+   revision="5051">
+<author>lstrait2</author>
+<date>2017-02-16T17:22:40.686093Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/ChessController.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/Command.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/controller/MoveCommand.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/MoveCommandManager.java</path>
+<path
+   kind="dir"
+   action="D">/lstrait2/Assignment1.2/Assignment1.1/src/game</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/model</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/lstrait2/Assignment1.2/Assignment1.1/src/game"
+   copyfrom-rev="4383">/lstrait2/Assignment1.2/Assignment1.1/src/model/game</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/game/Board.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/game/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/game/Tile.java</path>
+<path
+   kind="dir"
+   copyfrom-path="/lstrait2/Assignment1.2/Assignment1.1/src/pieces"
+   copyfrom-rev="4383"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/BerolinaPawn.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/King.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Move.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Princess.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/model/pieces/Rook.java</path>
+<path
+   kind="dir"
+   copyfrom-path="/lstrait2/Assignment1.2/Assignment1.1/src/player"
+   copyfrom-rev="4383"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/model/player</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/player/Color.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/model/player/Player.java</path>
+<path
+   action="D"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1/src/pieces</path>
+<path
+   action="D"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1/src/player</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/test/AllTests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/test/BerolinaPawnTests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/test/BishopTests.java</path>
+<path
+   kind="file"
+   action="D">/lstrait2/Assignment1.2/Assignment1.1/src/test/BoardGUITests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/test/BoardTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/ChessGameTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/KingTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/KnightTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/PawnTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/PieceTests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.2/Assignment1.1/src/test/PrincessTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/QueenTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/RookTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/TileTests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/view/BoardGUI.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/view/TileGUI.java</path>
+</paths>
+<msg>Implemented undo
+</msg>
+</logentry>
+<logentry
+   revision="5049">
+<author>lstrait2</author>
+<date>2017-02-16T16:47:48.117969Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/controller</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/ChessController.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/controller/Command.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/ForfeitListener.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/MoveCommand.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/PieceSelectionListener.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/controller/RestartListener.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/controller/UndoListener.java</path>
+</paths>
+<msg>Alot of work done</msg>
+</logentry>
+<logentry
+   revision="4564">
+<author>lstrait2</author>
+<date>2017-02-14T16:21:31.774847Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/view/BoardGUI.java</path>
+</paths>
+<msg>Added background to buttons</msg>
+</logentry>
+<logentry
+   revision="4385">
+<author>lstrait2</author>
+<date>2017-02-13T20:02:23.095292Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/.project</path>
+</paths>
+<msg>renamed
+</msg>
+</logentry>
+<logentry
+   revision="4383">
+<author>lstrait2</author>
+<date>2017-02-13T20:01:16.874025Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/.project</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1/.settings</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackBerolinaPawn.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackBishop.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackKing.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackKnight.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackPawn.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackPrincess.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackQueen.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/BlackRook.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/SoureCited</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/WhiteBerolinaPawn.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/WhiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/WhiteKing.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/WhiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/WhitePawn.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/WhitePrincess.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/resources/WhiteQueen.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/resources/WhiteRook.png</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/game</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/game/Board.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/game/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/game/Tile.java</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/pieces</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/BerolinaPawn.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Move.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Princess.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1/src/player</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/player/Color.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1/src/test</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/BerolinaPawnTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/BishopTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/BoardGUITests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/BoardTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/ChessGameTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/KingTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/KnightTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/ManualTestingPlan-StaticChessBoardGUI.pdf</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/PawnTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/PieceTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/PrincessTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/QueenTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/test/RookTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/test/TileTests.java</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2/Assignment1.1/src/view</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.2/Assignment1.1/src/view/BoardGUI.java</path>
+</paths>
+<msg>starting week</msg>
+</logentry>
+<logentry
+   revision="4382">
+<author>lstrait2</author>
+<date>2017-02-13T20:00:37.681854Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.2/Assignment1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4373">
+<author>lstrait2</author>
+<date>2017-02-13T19:37:53.193186Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.2</path>
+</paths>
+<msg>making new dir
+</msg>
+</logentry>
+<logentry
+   revision="4153">
+<author>lstrait2</author>
+<date>2017-02-12T22:59:59.012069Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/BlackBerolinaPawn.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/BlackPrincess.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/WhiteBerolinaPawn.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/WhitePrincess.png</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/game/ChessGame.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/test/BoardGUITests.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/test/ChessGameTests.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/test/ManualTestingPlan-StaticChessBoardGUI.pdf</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/view/BoardGUI.java</path>
+</paths>
+<msg>small changes, custom boards</msg>
+</logentry>
+<logentry
+   revision="4043">
+<author>lstrait2</author>
+<date>2017-02-11T01:02:45.532030Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/SoureCited</path>
+</paths>
+<msg>Cited Sources</msg>
+</logentry>
+<logentry
+   revision="3980">
+<author>lstrait2</author>
+<date>2017-02-09T19:07:11.221294Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>added Doxyfile</msg>
+</logentry>
+<logentry
+   revision="3979">
+<author>lstrait2</author>
+<date>2017-02-09T18:52:15.524910Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/view/BoardGUI.java</path>
+</paths>
+<msg>Fixed a spacing issue
+</msg>
+</logentry>
+<logentry
+   revision="3978">
+<author>lstrait2</author>
+<date>2017-02-09T18:51:10.504594Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.1/resources</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/BlackBishop.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/BlackKing.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/BlackKnight.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/BlackPawn.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/BlackQueen.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/BlackRook.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/WhiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/WhiteKing.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/WhiteKnight.png</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/resources/WhitePawn.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/WhiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/resources/WhiteRook.png</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/game/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/game/Tile.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Piece.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/test/AllTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/BoardGUITests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/ManualTestingPlan-StaticChessBoardGUI.pdf</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.1/src/view</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/view/BoardGUI.java</path>
+</paths>
+<msg>Added GUI code and manual testing plan
+</msg>
+</logentry>
+<logentry
+   revision="3963">
+<author>lstrait2</author>
+<date>2017-02-09T00:44:23.712079Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/King.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/Move.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Queen.java</path>
+</paths>
+<msg>More refactoring</msg>
+</logentry>
+<logentry
+   revision="3962">
+<author>lstrait2</author>
+<date>2017-02-09T00:29:18.956563Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/BerolinaPawn.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Move.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/Princess.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/test/AllTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/BerolinaPawnTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/PrincessTests.java</path>
+</paths>
+<msg>Implemented custom piece + testing
+</msg>
+</logentry>
+<logentry
+   revision="3916">
+<author>lstrait2</author>
+<date>2017-02-08T20:39:56.419691Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/game/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Move.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/lstrait2/Assignment1.1/src/pieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.1/src/test/ChessGameTests.java</path>
+</paths>
+<msg>Refactored
+</msg>
+</logentry>
+<logentry
+   revision="3893">
+<author>lstrait2</author>
+<date>2017-02-08T19:43:39.608533Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/Move.java</path>
+</paths>
+<msg>Added move class
+</msg>
+</logentry>
+<logentry
+   revision="3890">
+<author>lstrait2</author>
+<date>2017-02-08T19:31:38.700713Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/.project</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.1/.settings</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.1/src/game</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/game/Board.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/game/ChessGame.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/game/Tile.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.1/src/pieces</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.1/src/player</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/player/Color.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.1/src/test</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/AllTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/BishopTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/test/BoardTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/test/ChessGameTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/KingTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/test/KnightTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.1/src/test/PawnTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/PieceTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/QueenTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/RookTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.1/src/test/TileTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3479">
+<author>lstrait2</author>
+<date>2017-02-06T22:20:35.294775Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.0/src/test/PieceTests.java</path>
+</paths>
+<msg>added more tests
+</msg>
+</logentry>
+<logentry
+   revision="3477">
+<author>lstrait2</author>
+<date>2017-02-06T22:15:58.743571Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/Assignment1.0/src/test/PieceTests.java</path>
+</paths>
+<msg>added test for off board move
+</msg>
+</logentry>
+<logentry
+   revision="3291">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:51.557337Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/.project</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.0/src/game</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/game/Board.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/game/ChessGame.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/game/Tile.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.0/src/pieces</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/pieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/pieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.0/src/player</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/player/Color.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.0/src/test</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/test/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/test/BishopTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/test/BoardTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/test/ChessGameTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/test/KingTests.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment1.0/src/test/KnightTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/test/PawnTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/test/PieceTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/test/QueenTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/test/RookTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment1.0/src/test/TileTests.java</path>
+</paths>
+<msg>Implemeted Chess Library
+</msg>
+</logentry>
+<logentry
+   revision="3290">
+<author>lstrait2</author>
+<date>2017-02-05T21:55:10.475914Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1474">
+<author>lstrait2</author>
+<date>2017-01-29T20:05:54.824247Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment0/Discussion_code</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/README.txt</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/Discussion_code/mazes</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/mazes/large_maze.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/mazes/large_search.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/mazes/med_maze.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/mazes/med_search.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/mazes/small_maze.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/mazes/small_search.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/mazes/trickysearch.txt</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment0/Discussion_code/results</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/results/large.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/results/med.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/results/small.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/results/t.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/results/temp.txt</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/Discussion_code/src</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/src/Node.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/src/graph.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/Discussion_code/src/search.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/src/search_multiple.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/src/ut.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/Discussion_code/test.sh</path>
+</paths>
+<msg>importing code for discussion</msg>
+</logentry>
+<logentry
+   revision="804">
+<author>lstrait2</author>
+<date>2017-01-26T15:50:32.581581Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/CS440_MP1</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/README.txt</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/CS440_MP1/mazes</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/mazes/large_maze.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/mazes/large_search.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/mazes/med_maze.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/mazes/med_search.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/mazes/small_maze.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/mazes/small_search.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/mazes/trickysearch.txt</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/CS440_MP1/results</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/results/large.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/results/med.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/results/small.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/results/t.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/results/temp.txt</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment0/CS440_MP1/src</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/src/Node.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/src/graph.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/src/search.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/src/search_multiple.py</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/CS440_MP1/src/ut.py</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/CS440_MP1/test.sh</path>
+</paths>
+<msg>importing MP1 from CS440 to share in discussion</msg>
+</logentry>
+<logentry
+   revision="801">
+<author>lstrait2</author>
+<date>2017-01-26T15:38:16.016708Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment0/HW0</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment0/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/doc/README</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/lstrait2/Assignment0/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/lstrait2/Assignment0/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/lstrait2/Assignment0/HW0/useOutput.txt</path>
+</paths>
+<msg>importing HW0</msg>
+</logentry>
+<logentry
+   revision="638">
+<author>lstrait2</author>
+<date>2017-01-25T19:10:45.779367Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/lstrait2/shopping"
+   copyfrom-rev="637">/lstrait2/Assignment0/shopping</path>
+<path
+   action="D"
+   kind="dir">/lstrait2/shopping</path>
+</paths>
+<msg>Moved shopping to Assignment0 folder</msg>
+</logentry>
+<logentry
+   revision="637">
+<author>lstrait2</author>
+<date>2017-01-25T19:09:29.527635Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/Assignment0</path>
+</paths>
+<msg>importing Assignment0</msg>
+</logentry>
+<logentry
+   revision="635">
+<author>lstrait2</author>
+<date>2017-01-25T19:01:33.488264Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/lstrait2/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="634">
+<author>lstrait2</author>
+<date>2017-01-25T18:59:08.733536Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/lstrait2/grocery</path>
+<path
+   copyfrom-path="/lstrait2/grocery"
+   copyfrom-rev="633"
+   action="A"
+   kind="dir">/lstrait2/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="633">
+<author>lstrait2</author>
+<date>2017-01-25T18:56:53.381806Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/lstrait2/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="631">
+<author>lstrait2</author>
+<date>2017-01-25T18:56:26.304025Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/lstrait2/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="630">
+<author>lstrait2</author>
+<date>2017-01-25T18:55:50.557159Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="628">
+<author>lstrait2</author>
+<date>2017-01-25T18:53:04.261943Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/grocery/list2.txt</path>
+</paths>
+<msg>put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="626">
+<author>lstrait2</author>
+<date>2017-01-25T18:52:13.000745Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/grocery/list2.txt</path>
+</paths>
+<msg>Adding less important vegetable</msg>
+</logentry>
+<logentry
+   revision="625">
+<author>lstrait2</author>
+<date>2017-01-25T18:51:25.534470Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more important vegetable</msg>
+</logentry>
+<logentry
+   revision="623">
+<author>lstrait2</author>
+<date>2017-01-25T18:49:25.722906Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/lstrait2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="622">
+<author>lstrait2</author>
+<date>2017-01-25T18:46:50.351848Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/lstrait2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="621">
+<author>lstrait2</author>
+<date>2017-01-25T18:43:09.368277Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/lstrait2/grocery</path>
+<path
+   kind="file"
+   action="A">/lstrait2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/lstrait2/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="105">
+<author>root</author>
+<date>2017-01-24T19:28:04.124783Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/lstrait2</path>
+</paths>
+<msg>created directory lstrait2</msg>
+</logentry>
+</log>
